@@ -1,5 +1,5 @@
 # 👋 Hey I'm Oscar Dartigues
-🔭 I am a second year student in Coding & Digital Innovation at "IIM".<br>👯 I'm having fun coding and learning stuff, DM me about your projects I would be pleased to collaborate.<br>🌱 I’m currently learning VueJS and Swift. <br>💬 Ask me for help or if you would like to give me some feedbacks.<br>
+  🔭 I am a second year student in Coding & Digital Innovation at "IIM".<br>👯 I'm having fun coding and learning stuff, DM me about your projects I would be pleased to collaborate.<br>🌱 I’m currently learning NodeJS and Swift. <br>💬 Ask me for help or if you would like to give me some feedbacks.<br>
 
 
 ## 🌐 Socials:
