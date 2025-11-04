@@ -1,5 +1,5 @@
 # 👋 Hey I'm Oscar Dartigues
-👯 I'm having fun coding and learning stuff, DM me about your projects I would be pleased to collaborate.<br>🌱 I’m currently learning Symfony and Swift. <br>💬 Ask me for help or if you would like to give me some feedbacks.<br>
+👯 I'm having fun coding and learning stuff, DM me about your projects I would be pleased to collaborate.<br>💬 Ask me for help or if you would like to give me some feedbacks.<br>
 
 
 ## 🌐 Socials:
